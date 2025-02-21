@@ -1,2 +1,2 @@
 # BrainGlobe
-General information, resources, high-level issues and dicussions for the BrainGlobe project. For more details see [brainglobe.info](https://brainglobe.info). For developer meeting summaries, see the [Discussions tab](https://github.com/brainglobe/BrainGlobe/discussions) - developer meetings are open to anyone, join the [Zulip chat](https://brainglobe.zulipchat.com/) to participate.
+General information, resources, high-level issues and dicussions for the BrainGlobe project. For more details see [brainglobe.info](https://brainglobe.info) and join the [Zulip chat](https://brainglobe.zulipchat.com/) to participate.
